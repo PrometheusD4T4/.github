@@ -1,4 +1,4 @@
-![Header](./BannerBrand.png)
+![Header](./../BannerBrand.png)
 
 # Welcome to Prometheus
 
