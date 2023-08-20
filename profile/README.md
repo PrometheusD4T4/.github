@@ -7,3 +7,4 @@
 ## Our Open Source projects:
 
 - [Mercury](https://github.com/PrometheusD4T4/Mercury) - a powerful query builder tailored for memgraph databases. With an emphasis on efficiency, Mercury simplifies the process of inputting data to memgraph databases.
+- [Hermes](https://github.com/PrometheusD4T4/Hermes) - a Telegram bot designed to monitor and engage with memgraph databases, making database management an effortless interaction.
